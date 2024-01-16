@@ -25,13 +25,10 @@
               "src/assets"
             ],
             "styles": [
-              "node_modules/boostrap/scss/bootstrap.scss",
-              "node_modules/boostrap-icons/fint/bootstrap-icons.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": [
-              "node_modules/boostrap/dist/js/bootstrap.bundle.min.js"
-            ]
+            "scripts": []
           },
           "configurations": {
             "production": {
